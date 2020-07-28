@@ -1,0 +1,1 @@
+A project to practice data analysis and visualizations. Dataset pulled from https://www.kaggle.com/ndalziel/massachusetts-public-schools-data/data.
